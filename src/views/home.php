@@ -7,12 +7,6 @@
     <title>Game List</title>
 </head>
 <body>
-    <ul>
-        <?php foreach ($games as $game) : ?>
-        <li>
-            <?= $game['title']; ?>
-        </li>
-        <?php endforeach ?>
-    </ul>
+    <!-- Show all games title -->
 </body>
 </html>
