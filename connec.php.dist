@@ -3,4 +3,4 @@
 define('DATABASE', 'games_library');
 define('HOST', 'localhost');
 define('USER', 'user');
-define('PASWWORD', 'password');
+define('PASSWORD', 'password');
