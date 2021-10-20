@@ -7,10 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <ul>
-        <?php foreach ($games as $game): ?>
-        <li><?= $game['title'] ?></li>
-        <?php endforeach ?>
-    </ul>
+    
 </body>
 </html>
