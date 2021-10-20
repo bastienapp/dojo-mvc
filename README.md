@@ -2,6 +2,6 @@
 
 Décrire chaque partie du modèle MVC
 
-Que font chaque dossiers et fichiers du dépôt ?
+Quel dossiers et fichiers sont à créer ?
 
 Afficher la liste des jeux sur la route "/"
