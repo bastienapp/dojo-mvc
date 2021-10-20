@@ -1,5 +1,0 @@
-<?php
-
-define('DBNAME', 'games_library');
-define('USER', 'user');
-define('PWD', 'password');
